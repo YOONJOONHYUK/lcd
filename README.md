@@ -8,3 +8,4 @@
 
 ![화면 캡처 2022-06-13 055452](https://user-images.githubusercontent.com/102521625/173253242-d35f6172-3817-471e-a07d-60f9f86d3864.jpg)
 
+(lcd를 사용하기 위해서는 
